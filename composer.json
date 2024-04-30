@@ -1,0 +1,23 @@
+{
+  "name": "algoric/test-lib",
+  "description": "Algoric Test Lib",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Esat Köseoğlu",
+      "email": "ekoseoglu22@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Algoric\\TestLib\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "ext-json": "*",
+    "ext-curl": "*"
+  }
+}

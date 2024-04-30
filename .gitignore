@@ -1,0 +1,18 @@
+# IntelliJ / PhpStorm
+.idea/*
+.vscode/*
+/.vscode/
+/data/cache/*
+!/data/cache/.htaccess
+/data/log/*
+!/data/log/.htaccess
+/data/sqlite/log.sqlite
+/resources/*
+/data/mail/*
+!/data/mail/.htaccess
+/vendor/*
+*.lock
+.DS_Store
+DEVSENSE
+.github/*
+/docker/*
