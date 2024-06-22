@@ -5,6 +5,6 @@ class Test
 {
   static function method1(): string
   {
-    return 'tests lib method1';
+    return 'tests lib method123';
   }
 }
